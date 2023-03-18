@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @traizooo
 - 👀 I’m interested in Computer Science and Machine Learning
-- 🌱 I’m currently learning on university in London
+- 🌱 I’m currently studying on university in London
 - 📫 How to reach me @majkelo003 on Instagram
 
 <!---
