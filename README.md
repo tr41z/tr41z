@@ -18,4 +18,4 @@ CSS             4 mins          ░░░░░░░░░░░░░░░░
 
 
 
-![traizooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=traizooo&show_icons=true&theme=radical)
+![traizooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=traizooo&show_icons=true&theme=dark)
