@@ -13,3 +13,5 @@ HTML           6 hr 3 mins      ███▒░░░░░░░░░░░░
 CSS             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 <!--END_SECTION:waka-->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
