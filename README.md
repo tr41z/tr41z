@@ -14,4 +14,4 @@ CSS             4 mins          ░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![traizooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=traizooo&show_icons=true&theme=radical)
