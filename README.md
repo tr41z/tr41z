@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/michaelowsiejew" target="blank"><img src="https://img.shields.io/twitter/follow/michaelowsiejew?logo=twitter&style=for-the-badge" alt="michaelowsiejew" /></a> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=traizooo" alt="traizooo" /></a>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=traizooo&theme=dark_lover" alt="traizooo" /></a>
 
 - 🌱 I’m currently learning **in Brunel University of London**
 
