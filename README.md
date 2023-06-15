@@ -17,4 +17,4 @@ CSS             4 mins          ░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=traizooo&theme=dark)](https://git.io/streak-stats)
