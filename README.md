@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm traizooo</h1>
 <h3 align="center">A passionate mobile iOS app developer from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=traizooo&label=Profile%20views&color=00f900&style=flat" alt="traizooo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=traizooo&label=Profile%20views&color=ff9300&style=plastic" alt="traizooo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=traizooo" alt="traizooo" /></a> </p>
 
@@ -29,12 +29,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/v79yrrj9ddU"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="v79yrrj9ddU" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=traizooo&show_icons=true&theme=dark&title_color=ff9300&text_color=ff9300&locale=en&layout=compact" alt="traizooo" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=traizooo&show_icons=true&theme=dark&title_color=00f900&text_color=00f900&locale=en&layout=compact" alt="traizooo" /></p><br><br>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=traizooo&show_icons=true&theme=dark&title_color=00f900&text_color=00f900&locale=en" alt="traizooo" /></p>
+<br><br><br><br>
+<h3 align="left">Stats:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=traizooo&show_icons=true&theme=dark&title_color=ff9300&text_color=ff9300&locale=en" alt="traizooo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=traizooo&theme=dark" alt="traizooo" /></p>
-
