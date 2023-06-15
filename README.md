@@ -17,15 +17,4 @@ CSS             4 mins          ░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=traizooo&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=traizooo&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=traizooo&show_icons=true" />
-</picture>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
