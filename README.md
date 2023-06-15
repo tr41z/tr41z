@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=traizooo&show_icons=true&theme=dark&title_color=00f900&text_color=00f900&locale=en&layout=compact" alt="traizooo" /></p>
 
-<p></p>
+<p style="margin-bottom: 20px;"></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=traizooo&show_icons=true&theme=dark&title_color=00f900&text_color=00f900&locale=en" alt="traizooo" /></p>
 
