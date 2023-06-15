@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=traizooo&show_icons=true&theme=dark&title_color=ff9300&text_color=ff9300&locale=en&layout=compact" alt="traizooo" /></p>
 
-<br><br><br><br>
+<br><br><br><br><br>
 <h3 align="left">Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=traizooo&show_icons=true&theme=dark&title_color=ff9300&text_color=ff9300&locale=en" alt="traizooo" /></p>
 
