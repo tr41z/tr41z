@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/michaelowsiejew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="michaelowsiejew" height="30" width="40" /></a>
 <a href="https://kaggle.com/michaowsiejew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="michaowsiejew" height="30" width="40" /></a>
-<a href="https://fb.com/admiralszpon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="admiralszpon" height="30" width="40" /></a>
+<a href="https://fb.com/traizooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="admiralszpon" height="30" width="40" /></a>
 <a href="https://instagram.com/majkelo003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="majkelo003" height="30" width="40" /></a>
 </p>
 
