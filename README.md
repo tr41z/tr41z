@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **michal.owsiejew23@gmail.com**
 
-- ⚡ Fun fact **I don't like watermelon 🍉**
+- ⚡ Fun fact **I'm allergic to water 💧**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
