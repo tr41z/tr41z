@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=traizooo&label=Profile%20views&color=ff9300&style=plastic" alt="traizooo" /> </p>
-<h1 align="center">Hi 👋, I'm @traizooo</h1>
+<h1 align="center">Hi 👋, I'm traizooo</h1>
 <h3 align="center">A passionate programmer from Poland</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=traizooo&row=1&theme=dark_lover" alt="traizooo" /></a>
