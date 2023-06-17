@@ -1,7 +1,7 @@
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=traizooo&label=Profile%20views&color=ff9300&style=plastic" alt="traizooo" />
     <a href="https://wakatime.com/@ee537992-5091-47e2-a1fe-71191ef9a769">
-        <img src="https://wakatime.com/badge/user/ee537992-5091-47e2-a1fe-71191ef9a769.svg" alt="wakatime" />
+        <img src="https://wakatime.com/badge/user/ee537992-5091-47e2-a1fe-71191ef9a769.svg" alt="wakatime" style="vertical-align:top; margin-left:5px" />
     </a>
 </p>
 
