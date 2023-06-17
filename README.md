@@ -1,4 +1,11 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=traizooo&label=Profile%20views&color=ff9300&style=plastic" alt="traizooo" /> </p>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=traizooo&label=Profile%20views&color=ff9300&style=plastic" alt="traizooo" />
+    <a href="https://wakatime.com/@ee537992-5091-47e2-a1fe-71191ef9a769">
+        <img src="https://wakatime.com/badge/user/ee537992-5091-47e2-a1fe-71191ef9a769.svg" alt="wakatime" />
+    </a>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Michael!</h1>
 <h3 align="center">A passionate programmer from Poland</h3>
 
@@ -33,7 +40,5 @@
 <br><br><br><br><br>
 <h3 align="left">Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=traizooo&show_icons=true&theme=dark&title_color=ff9300&text_color=ff9300&locale=en" alt="traizooo" /></p>
-
-[![Michael's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=traizooo)](https://github.com/traizooo/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=traizooo&theme=dark" alt="traizooo" /></p>
