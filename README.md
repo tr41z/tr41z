@@ -34,4 +34,6 @@
 <h3 align="left">Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=traizooo&show_icons=true&theme=dark&title_color=ff9300&text_color=ff9300&locale=en" alt="traizooo" /></p>
 
+[![Michael's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=traizooo)](https://github.com/traizooo/github-readme-stats)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=traizooo&theme=dark" alt="traizooo" /></p>
