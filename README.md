@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=traizooo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 ## 🐦 Latest Tweet
-<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=owsiejew23&theme=dracula&icon=hashtag&time=true&response=true&border=true"/></a>
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=owsiejew23&theme=tokyonight&response=true&border=true&time=true&icon=badge"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
