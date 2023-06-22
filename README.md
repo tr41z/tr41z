@@ -1,6 +1,14 @@
 [![](https://visitcount.itsvg.in/api?id=traizooo&icon=1&color=1)](https://visitcount.itsvg.in)
 [![wakatime](https://wakatime.com/badge/user/ee537992-5091-47e2-a1fe-71191ef9a769.svg)](https://wakatime.com/@ee537992-5091-47e2-a1fe-71191ef9a769)
 
+<h1 align="center">Hi 👋, I'm Michael!</h1>
+<h3 align="center">A passionate programmer from Poland</h3>
+
+## 🏆 GitHub Trophies
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=traizooo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&" alt="traizooo" /></a>
+
+---
+
 ## 💫 About Me
 🌱 I’m currently studying at **Brunel University London**<br><br>💬 Ask me about **SwiftUI**, **Node.js**, **React.js**, **JavaScript**<br><br>📫 How to reach me **michal.owsiejew23@gmail.com**<br><br>⚡ Fun fact I'm **allergic to water 💧**
 
@@ -26,11 +34,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=traizooo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=traizooo&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=traizooo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=traizooo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&)
 
 ---
 
