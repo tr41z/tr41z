@@ -9,7 +9,7 @@
 ---
 
 ## 💫 About Me
-🌱 I’m currently studying at **Brunel University London**<br><br>💬 Ask me about **SwiftUI**, **Node.js**, **React.js**, **JavaScript**<br><br>📫 How to reach me **michal.owsiejew23@gmail.com**<br><br>⚡ Fun fact I'm **allergic to water**
+🌱 I’m currently studying at **Brunel University London**<br><br>💬 Ask me about **SwiftUI**, **Node.js**, **React.js**, **JavaScript**<br><br>📫 How to reach me **michal.owsiejew23@gmail.com**
 
 ---
 
