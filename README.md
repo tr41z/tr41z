@@ -32,7 +32,7 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=traizooo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=traizooo&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=traizooo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=traizooo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
