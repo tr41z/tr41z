@@ -1,8 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=traizooo&icon=1&color=1)](https://visitcount.itsvg.in)
 [![wakatime](https://wakatime.com/badge/user/ee537992-5091-47e2-a1fe-71191ef9a769.svg)](https://wakatime.com/@ee537992-5091-47e2-a1fe-71191ef9a769)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/traiz.png" alt="TryHackMe">
-
 <h1 align="center">Hello World! 👋, I'm Michael!</h1>
 <h3 align="center">A passionate programmer from Poland</h3>
 
