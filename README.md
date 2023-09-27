@@ -9,7 +9,7 @@
 ---
 
 ## 💫 About Me
-🌱 I’m currently studying at **Brunel University London**<br><br>⌨️ Coding in: **Python**, **Java**, **SwiftUI**, **JavaScript**, **Node.js**, **React.js**, **Next.js**<br><br>📫 How to reach me **michal.owsiejew23@gmail.com**
+🌱 I’m currently studying at **Brunel University London**<br><br>⌨️ Coding in **Python**, **Java**, **SwiftUI**, **JavaScript**, **Node.js**, **React.js**, **Next.js**<br><br>📫 How to reach me **michal.owsiejew23@gmail.com**
 
 ---
 
