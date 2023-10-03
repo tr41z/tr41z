@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=traizooo&icon=1&color=1)](https://visitcount.itsvg.in)
-
 <h1 align="center">Hello World! 👋, I'm Michael!</h1>
 <h3 align="center">A passionate programmer from Poland</h3>
 
