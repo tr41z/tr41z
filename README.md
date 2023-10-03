@@ -4,7 +4,7 @@
 <h1 align="center">Hello World! 👋, I'm Michael!</h1>
 <h3 align="center">A passionate programmer from Poland</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=traizooo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&" alt="traizooo" /></a>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=traizooo&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=4&" alt="traizooo" /></a>
 
 ---
 
@@ -30,14 +30,14 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=traizooo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=traizooo&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=traizooo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=traizooo&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=traizooo&theme=gruvbox&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=traizooo&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 
