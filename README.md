@@ -1,5 +1,4 @@
 [![](https://visitcount.itsvg.in/api?id=traizooo&icon=1&color=1)](https://visitcount.itsvg.in)
-[![wakatime](https://wakatime.com/badge/user/ee537992-5091-47e2-a1fe-71191ef9a769.svg)](https://wakatime.com/@ee537992-5091-47e2-a1fe-71191ef9a769)
 
 <h1 align="center">Hello World! 👋, I'm Michael!</h1>
 <h3 align="center">A passionate programmer from Poland</h3>
@@ -32,7 +31,8 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=traizooo&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=traizooo&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=traizooo&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=traizooo&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
+[![wakatime](https://wakatime.com/badge/user/ee537992-5091-47e2-a1fe-71191ef9a769.svg)](https://wakatime.com/@ee537992-5091-47e2-a1fe-71191ef9a769)
 
 ---
 
