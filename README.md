@@ -1,5 +1,4 @@
-<h1 align="center">Hello World! 👋, I'm Michael!</h1>
-<h3 align="center">A passionate programmer from Poland</h3>
+<h1 align="center">01001000 01100101 01101100 01101100 01101111</h1>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=traizooo&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=4&" alt="traizooo" /></a>
 
