@@ -1,4 +1,5 @@
-<h1 align="center">01001000 01100101 01101100 01101100 01101111</h1>
+$${\color{green}\large 01001000 \space 01100101 \space 01101100 \space 01101100 \space 01101111}$$
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=traizooo&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7&row=1" alt="traizooo" /><br><br>
 
