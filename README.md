@@ -11,8 +11,8 @@ $${\color{green}\large 01001000 \space 01100101 \space 01101100 \space 01101100 
 
 <div align="center">
 <b>Most Recent Completed Project</b><br>
-                |
-                |<br>
+                ||<br>
+                ||<br>
   <a href="https://albertowsiejew.com"><img src="https://assets.awwwards.com/awards/element/2022/09/6313eaf4b41bd275260216.png" height=50 style="margin-top: 20"/></a>
 </div>
 
