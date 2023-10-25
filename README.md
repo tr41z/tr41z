@@ -9,6 +9,13 @@ $${\color{green}\large 01001000 \space 01100101 \space 01101100 \space 01101100 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=traizooo&theme=chartreuse-dark&show_icons=true&hide_border=true&icon_color=00ff00&title_color=48bf53&border_radius=10" />
 </a>
 
+<div align="center">
+<b>Most Recent Completed Project</b><br>
+                |
+                |<br>
+  <a href="www.albertowsiejew.com"><img src="https://assets.awwwards.com/awards/element/2022/09/6313eaf4b41bd275260216.png" height=50 style="margin-top: 20"/></a>
+</div>
+
 ---
 
 <div align="center" dir="auto">
