@@ -21,7 +21,7 @@ $${\color{green}\large 01001000 \space 01100101 \space 01101100 \space 01101100 
 
 <div align="center" dir="auto">
   
-  <a href="https://tryhackme.com/p/traiz" rel="nofollow"><img height="58" title="TryHackMe Profile" alt="TryHackMe traiz Profile" src="https://tryhackme-badges.s3.amazonaws.com/traiz.png?0" data-canonical-src="https://tryhackme-badges.s3.amazonaws.com/traiz.png" style="max-width: 100%;"></a>
+  <a href="https://tryhackme.com/p/traiz" rel="nofollow"><img height="58" title="TryHackMe Profile" alt="TryHackMe traiz Profile" src="https://tryhackme-badges.s3.amazonaws.com/traiz.png" data-canonical-src="https://tryhackme-badges.s3.amazonaws.com/traiz.png" style="max-width: 100%;"></a>
 </div>
 
 <div style="display: flex; justify-content: space-between;" align="center">
