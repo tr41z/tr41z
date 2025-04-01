@@ -31,9 +31,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tr41z&theme=chartreuse-dark" alt="GitHub Activity Graph" />
 </p>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats & Streak Stats -->
 <p align="center">
   <a href="https://github.com/tr41z">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=tr41z&theme=chartreuse-dark&show_icons=true&hide_border=true&icon_color=00ff00&title_color=00ff00&border_radius=10" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=tr41z&theme=chartreuse-dark&show_icons=true&hide_border=true&icon_color=00ff00&title_color=00ff00&border_radius=10" />
+  </a>
+  <a href="https://github.com/tr41z">
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=tr41z&theme=chartreuse-dark&hide_border=true&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" />
   </a>
 </p>
+
