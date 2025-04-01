@@ -13,10 +13,10 @@
 <!-- GitHub Stats & Spotify -->
 <p align="center">
   <a href="https://github.com/tr41z">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=tr41z&theme=chartreuse-dark&show_icons=true&hide_border=true&icon_color=00ff00&title_color=00ff00&border_radius=10" />
+    <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=tr41z&theme=chartreuse-dark&show_icons=true&hide_border=true&icon_color=00ff00&title_color=00ff00&border_radius=10" />
   </a>
    <a href="https://github.com/tr41z">
-     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr41z&theme=chartreuse-dark&layout=compact&hide_border=true&border_radius=10&title_color=00ff00&hide=jupyter%20notebook,C%23" />
+     <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr41z&theme=chartreuse-dark&layout=compact&hide_border=true&border_radius=10&title_color=00ff00&hide=jupyter%20notebook,C%23" />
    </a>
  </p>
  
