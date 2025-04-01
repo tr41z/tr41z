@@ -10,11 +10,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tr41z&theme=chartreuse-dark" alt="GitHub Activity Graph" />
-</p>
-
 <!-- GitHub Stats & Spotify -->
 <table align="center">
   <tr>
@@ -30,6 +25,11 @@
     </td>
   </tr>
 </table>
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tr41z&theme=chartreuse-dark" alt="GitHub Activity Graph" />
+</p>
 
 <!-- GitHub Stats -->
 <p align="center">
