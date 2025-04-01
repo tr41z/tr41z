@@ -20,7 +20,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=michal.owsiejew&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=4dff00&bar_color_cover=true" alt="Spotify Profile" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=michal.owsiejew&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=4dff00&bar_color_cover=true" alt="Spotify Profile" />
       </a>
     </td>
   </tr>
