@@ -9,11 +9,20 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/tr41z">
-    <img src="https://github-profile-trophy.vercel.app/?username=tr41z&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7&row=1" alt="tr41z stats" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/tr41z">
+        <img src="https://github-profile-trophy.vercel.app/?username=tr41z&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7&row=1" alt="tr41z stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=michal.owsiejew&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=4dff00&bar_color_cover=true" alt="Spotify Profile" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/tr41z">
